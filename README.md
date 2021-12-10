@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Preview Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[GPT3](https://gpt3-website.netlify.app/).
 
 ## Available Scripts
 
